@@ -25,4 +25,4 @@ for elemento in colores:
     time.sleep(0.2)
     print(elemento)
 
-print("\n\n")
+print("\n\n");
